@@ -6,7 +6,7 @@
 
 📂 目录规划
 - web-sec/ : Web安全笔记（SQL注入、XSS、文件上传等）
-  - [OWASP注入漏洞学习笔记](./owasp-injection-notes.pdf)  SQL 注入漏洞/OS 命令注入与代码注入/XSS（跨站脚本攻击）
+  - [OWASP注入漏洞学习笔记](./owasp-injection-notes.pdf)[网页有时候打不开需要下载]SQL 注入漏洞/OS 命令注入与代码注入/XSS（跨站脚本攻击）
 - ctf-writeup/ ：CTF题目复盘笔记
 - soft-exam/ ：软考信息安全考点
 
