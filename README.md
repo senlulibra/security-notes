@@ -4,10 +4,11 @@
 ## 📖 项目介绍
 本仓库用于记录个人网络安全学习过程，整理理论知识点、靶场复现步骤、CTF刷题思路，仅作学习复盘使用。
 
-## 📂 目录规划
-web-sec/          # Web 安全笔记（SQL 注入、XSS、文件上传等）
-ctf-writeup/      # CTF 题目复盘笔记
-soft-exam/        # 软考信息安全方向考点
+📂 目录规划
+- web-sec/ : Web安全笔记（SQL注入、XSS、文件上传等）
+  - [OWASP注入漏洞学习笔记](./owasp-injection-notes.pdf)
+- ctf-writeup/ ：CTF题目复盘笔记
+- soft-exam/ ：软考信息安全考点
 
 ## ✨ 学习收获
 持续更新中，逐步夯实网络安全基础，熟悉漏洞原理、工具使用，锻炼代码与审计思维。
